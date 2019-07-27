@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: 'upwork-coding-test'
+    publicPath: '/upwork-coding-test/'
 };
